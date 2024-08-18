@@ -19,4 +19,3 @@ I’m **Gajanan Kanade**, a **Full-Stack Developer** with a **Master's in Comput
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/gajendra-kanade/) or explore my projects on [GitHub](https://github.com/Gajukanade).
