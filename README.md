@@ -5,11 +5,7 @@
 
 ---
 
-## **About Me**
 
-I’m **Gajanan Kanade**, a **Full-Stack Developer** with a **Master's in Computer Applications**. I specialize in creating responsive and dynamic web applications and am currently contributing to innovative projects at **ArrowUp Academy**.
-
----
 
 ## **Skills**
 
