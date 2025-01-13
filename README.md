@@ -1,6 +1,6 @@
 # Gajanan Kanade
 
-👋 Hi, I’m **Gajanan Kanade**, a full-stack developer and QA professional. I specialize in **web development** with **JavaScript** and **React**, and I have strong skills in **manual** and **automation testing** with **Selenium**, **Postman**, and **Jira**.
+👋 Hi, I’m **Gajanan Kanade**, a full-stack developer and QA professional. I specialize in **web development** with **JavaScript** and **React**, and I have strong skills in **manual** and **automation testing** with **Selenium**, **Postman**, and **Jira**. I’m currently contributing to [ArrowUp Academy](https://www.arrowup.in), enhancing educational experiences in tech development and QA.
 
 ## 🛠️ Skills
 
